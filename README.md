@@ -183,8 +183,4 @@ You can browse all available models at the [Ollama Library](https://ollama.com/l
         The image shows a golden retriever playing in a park with a red ball...
         ```
 
-## 5\. Additional Resources
-
-  * **Video Guide:** [Install & Run LLMs on Windows in Minutes](https://www.youtube.com/watch?v=3W-trR0ROUY)
-
 <!-- end list -->
